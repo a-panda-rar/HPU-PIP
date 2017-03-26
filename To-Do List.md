@@ -2,7 +2,7 @@
 > To-Do<br>
 - [ ] 小组成员补充知识基础，寻找资料，并分享给大家 @Everybody<br>
 - [ ] 咨询老师<br>
-- [ ] 学习大赛群文件推荐的资料 @Everybody<br>
+- [ ] 学习大赛群文件推荐的资料（群号：435027670） @Everybody<br>
 
 
 > Done<br>
