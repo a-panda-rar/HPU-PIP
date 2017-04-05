@@ -222,3 +222,6 @@ Dataset/
 #############
 *.xlsx
 *.docx
+*.zip
+*.pdf
+*.rar
