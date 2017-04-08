@@ -189,7 +189,7 @@ $RECYCLE.BIN/
 #############
 
 *.py[cod]
-
+*.ipynb
 # Packages
 *.egg
 *.egg-info
@@ -222,6 +222,9 @@ Dataset/
 #############
 *.xlsx
 *.docx
+*.doc
+*.ppt
 *.zip
 *.pdf
 *.rar
+*.csv
